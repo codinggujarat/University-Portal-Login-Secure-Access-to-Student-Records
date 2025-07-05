@@ -12,20 +12,7 @@ A secure and containerized university login portal that allows users to authenti
 - **MongoDB** – NoSQL database for storing user data
 - **Docker** – Containerization of the app and database
 - **HTML/CSS** – Frontend interface
-## 📂 Project Structure
-```
-university-login/
-├── backend/
-│   ├── server.js
-│   ├── routes/
-│   └── models/
-├── frontend/
-│   └── index.html
-├── .env
-├── Dockerfile
-├── docker-compose.yml
-└── README.md
-```
+
 ## ⚙️ Installation & Setup
 ### 1. Clone the repository
 ```bash
